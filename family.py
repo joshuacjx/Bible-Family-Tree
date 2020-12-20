@@ -19,7 +19,7 @@ class Person:
 
 class RelationshipType(Enum):
     WIFE = 1
-    OFFSPRING = 2
+    FATHER = 2
 
 
 class Relationship:
@@ -79,8 +79,8 @@ for index, row in relationship_data.iterrows():
     if type == "wife":
         relationship = Relationship(relationship_id, from_person, to_person, RelationshipType.WIFE)
         relationships[relationship_id] = relationship
-    elif type == "son" or type == "daughter":
-        relationship = Relationship(relationship_id, from_person, to_person, RelationshipType.OFFSPRING)
+    elif type == "father":
+        relationship = Relationship(relationship_id, from_person, to_person, RelationshipType.FATHER)
         relationships[relationship_id] = relationship
     else:
         pass
@@ -97,8 +97,8 @@ for relationship in relationships.values():
 
     if type is RelationshipType.WIFE:
         puml_text += from_person_id + " .right. " + to_person_id + "\n"
-    if type is RelationshipType.OFFSPRING:
-        puml_text += to_person_id + " --> " + from_person_id + "\n"
+    if type is RelationshipType.FATHER:
+        puml_text += from_person_id + " --> " + to_person_id + "\n"
 
 
 puml_text += "@enduml" + "\n"
