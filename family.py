@@ -51,7 +51,7 @@ PLACEHOLDER_NAME = "-"
 person_data = pd.read_csv(PERSON_FILEPATH)
 relationship_data = pd.read_csv(RELATIONSHIP_FILEPATH)
 
-puml_text = ""
+puml_text = "@startuml" + "\n" + "skinparam monochrome true" + "\n" + "hide empty members" + "\n" + "hide circle" + "\n"
 
 # Collect all person data
 persons = dict()
@@ -90,8 +90,19 @@ for person in persons.values():
     puml_text += "class \"" + person.get_name() + "\" as " + person.get_id() + "\n"
 
 # Declare all relationships
+for relationship in relationships.values():
+    from_person_id = relationship.get_from_person().get_id()
+    to_person_id = relationship.get_to_person().get_id()
+    type = relationship.get_type()
+
+    if type is RelationshipType.WIFE:
+        puml_text += from_person_id + " .right. " + to_person_id + "\n"
+    if type is RelationshipType.OFFSPRING:
+        puml_text += to_person_id + " --> " + from_person_id + "\n"
 
 
-# print(puml_text)
+puml_text += "@enduml" + "\n"
+
+print(puml_text)
 
 
