@@ -42,8 +42,8 @@ class Relationship:
         return self.type
 
 
-PERSON_FILEPATH = "person.csv"
-RELATIONSHIP_FILEPATH = "relationship.csv"
+PERSON_FILEPATH = "data/person.csv"
+RELATIONSHIP_FILEPATH = "data/relationship.csv"
 OUTPUT_FILEPATH = "output.txt"
 
 PLACEHOLDER_NAME = "-"
