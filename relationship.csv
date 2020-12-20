@@ -1,5 +1,4 @@
 person_relationship_id,person_relationship_sequence,person_id_1,relationship_type,person_id_2,relationship_category,reference_id,relationship_notes
-G-d_1:Adam_1:1,1,G-d_1,Creator,Adam_1,explicit,GEN 2:7,
 Adam_1:Eve_1:2,2,Adam_1,husband,Eve_1,explicit,GEN 3:6,
 Eve_1:Adam_1:3,3,Eve_1,wife,Adam_1,explicit,GEN 2:25,
 Adam_1:Cain_1:4,4,Adam_1,father,Cain_1,explicit,GEN 4:1,
