@@ -20,6 +20,7 @@ class Person:
 class RelationshipType(Enum):
     WIFE = 1
     FATHER = 2
+    ANCESTOR = 3
 
 
 class Relationship:
@@ -42,6 +43,16 @@ class Relationship:
         return self.type
 
 
+def clean_id(id_string):
+    return id_string.replace(" ", "_").replace("-", "_")
+
+
+def write_to_txt_file(filepath, text):
+    text_file = open(filepath, "w")
+    text_file.write(text)
+    text_file.close()
+
+
 PERSON_FILEPATH = "data/person.csv"
 RELATIONSHIP_FILEPATH = "data/relationship.csv"
 OUTPUT_FILEPATH = "output.txt"
@@ -54,7 +65,6 @@ person_data = pd.read_csv(PERSON_FILEPATH)
 relationship_data = pd.read_csv(RELATIONSHIP_FILEPATH)
 
 puml_text = "@startuml" + NEWLINE \
-            + "page 5 x 10" + NEWLINE \
             + "skinparam monochrome true" + NEWLINE \
             + "hide empty members" + NEWLINE \
             + "hide circle" + NEWLINE
@@ -63,16 +73,16 @@ puml_text = "@startuml" + NEWLINE \
 persons = dict()
 for index, row in person_data.iterrows():
     person_name = str(row['person_name'])
-    person_id = str(row['person_id']).replace(" ", "_").replace("-", "_")
+    person_id = clean_id(str(row['person_id']))
     person = Person(person_id, person_name)
     persons[person_id] = person
 
 # Collect all relationship data
 relationships = dict()
 for index, row in relationship_data.iterrows():
-    relationship_id = str(row['person_relationship_id']).replace(" ", "_").replace("-", "_")
-    from_person_id = str(row['person_id_1']).replace(" ", "_").replace("-", "_")
-    to_person_id = str(row['person_id_2']).replace(" ", "_").replace("-", "_")
+    relationship_id = clean_id(str(row['person_relationship_id']))
+    from_person_id = clean_id(str(row['person_id_1']))
+    to_person_id = clean_id(str(row['person_id_2']))
 
     if from_person_id not in persons:
         persons[from_person_id] = Person(from_person_id, PLACEHOLDER_NAME)
@@ -87,6 +97,9 @@ for index, row in relationship_data.iterrows():
         relationships[relationship_id] = relationship
     elif type == "father":
         relationship = Relationship(relationship_id, from_person, to_person, RelationshipType.FATHER)
+        relationships[relationship_id] = relationship
+    elif type == "ancestor":
+        relationship = Relationship(relationship_id, from_person, to_person, RelationshipType.ANCESTOR)
         relationships[relationship_id] = relationship
     else:
         pass
@@ -105,13 +118,13 @@ for relationship in relationships.values():
         puml_text += from_person_id + " .left. " + to_person_id + NEWLINE
     if type is RelationshipType.FATHER:
         puml_text += from_person_id + " --> " + to_person_id + NEWLINE
+    if type is RelationshipType.ANCESTOR:
+        puml_text += from_person_id + " ..> " + to_person_id + NEWLINE
 
 
 puml_text += "@enduml" + "\n"
 
 # Write into a text file
-text_file = open(OUTPUT_FILEPATH, "w")
-text_file.write(puml_text)
-text_file.close()
+write_to_txt_file(OUTPUT_FILEPATH, puml_text)
 
 
