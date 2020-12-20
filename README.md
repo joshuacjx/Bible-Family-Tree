@@ -8,9 +8,11 @@ The words are definitely too small to see with your naked eye. Open the picture 
 
 ![Full Bible Family Tree](final_tree.png)
 
-- Horizontal dotted lines: Symbolizes marriage
-- Downward-facing solid arrows: Symbolizes a father-son relationship
-- Downward-facing dotted arrows: Symbolizes a ancestor-descendant relationship
+- _Horizontal dotted lines:_ Symbolizes marriage
+- _Downward-facing solid arrows:_ Symbolizes a father-son relationship
+- _Downward-facing dotted arrows:_ Symbolizes a ancestor-descendant relationship
+
+*IMPORTANT:* If you click on the picture, you might accidentally see just a blank screen. That's because the picture is too large and you are zoomed too close into a blank area of the picture. Just scroll around and you will be able to find something.
 
 I have obtained datasets online on the [people mentioned in the Holy Bible](https://data.world/bradys/bibledata-person),
 as well as the [relationships between these people](https://data.world/bradys/bibledata-personrelationship). Credits for 
