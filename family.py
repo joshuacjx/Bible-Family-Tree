@@ -47,16 +47,17 @@ RELATIONSHIP_FILEPATH = "data/relationship.csv"
 OUTPUT_FILEPATH = "output.txt"
 
 PLACEHOLDER_NAME = "-"
+NEWLINE = "\n"
 
 # Generate dataframes
 person_data = pd.read_csv(PERSON_FILEPATH)
 relationship_data = pd.read_csv(RELATIONSHIP_FILEPATH)
 
-puml_text = "@startuml" + "\n" \
-            + "page 5 x 10" + "\n" \
-            + "skinparam monochrome true" + "\n" \
-            + "hide empty members" + "\n" \
-            + "hide circle" + "\n"
+puml_text = "@startuml" + NEWLINE \
+            + "page 5 x 10" + NEWLINE \
+            + "skinparam monochrome true" + NEWLINE \
+            + "hide empty members" + NEWLINE \
+            + "hide circle" + NEWLINE
 
 # Collect all person data
 persons = dict()
@@ -92,7 +93,7 @@ for index, row in relationship_data.iterrows():
 
 # Declare all persons
 for person in persons.values():
-    puml_text += "class \"" + person.get_name() + "\" as " + person.get_id() + "\n"
+    puml_text += "class \"" + person.get_name() + "\" as " + person.get_id() + NEWLINE
 
 # Declare all relationships
 for relationship in relationships.values():
@@ -101,9 +102,9 @@ for relationship in relationships.values():
     type = relationship.get_type()
 
     if type is RelationshipType.WIFE:
-        puml_text += from_person_id + " .left. " + to_person_id + "\n"
+        puml_text += from_person_id + " .left. " + to_person_id + NEWLINE
     if type is RelationshipType.FATHER:
-        puml_text += from_person_id + " --> " + to_person_id + "\n"
+        puml_text += from_person_id + " --> " + to_person_id + NEWLINE
 
 
 puml_text += "@enduml" + "\n"
