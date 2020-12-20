@@ -15,7 +15,7 @@ class "Adah" as Adah_1
 class "Zillah" as Zillah_1
 class "Jabal" as Jabal_1
 class "Jubal" as Jubal_1
-class "Tubal-cain" as Tubal-cain_1
+class "Tubal-cain" as Tubal_cain_1
 class "Naamah" as Naamah_1
 class "Seth" as Seth_1
 class "Enosh" as Enosh_1
@@ -133,7 +133,7 @@ class "Wife of Lot" as Wife_of_Lot_1
 class "Firstborn of Lot" as Firstborn_of_Lot_1
 class "Youngest of Lot" as Youngest_of_Lot_1
 class "Moab" as Moab_1
-class "Ben-ammi" as Ben-ammi_1
+class "Ben-ammi" as Ben_ammi_1
 class "Abimelech" as Abimelech_1
 class "Phicol" as Phicol_1
 class "Uz" as Uz_2
@@ -263,7 +263,7 @@ class "Hadad" as Hadad_2
 class "Bedad" as Bedad_1
 class "Samlah" as Samlah_1
 class "Shaul" as Shaul_1
-class "Baal-hanan" as Baal-hanan_1
+class "Baal-hanan" as Baal_hanan_1
 class "Achbor" as Achbor_1
 class "Hadar" as Hadar_1
 class "Mehetabel" as Mehetabel_1
@@ -503,7 +503,7 @@ class "Achan" as Achan_1
 class "Carmi" as Carmi_2
 class "Zabdi" as Zabdi_1
 class "king of Ai" as king_of_Ai_1
-class "Adoni-zedek" as Adoni-zedek_1
+class "Adoni-zedek" as Adoni_zedek_1
 class "Hoham" as Hoham_1
 class "Piram" as Piram_1
 class "Japhia" as Japhia_1
@@ -541,8 +541,8 @@ class "Talmai" as Talmai_1
 class "Achsah" as Achsah_1
 class "Othniel" as Othniel_1
 class "Kenaz" as Kenaz_2
-class "Adoni-bezek" as Adoni-bezek_1
-class "Cushan-rishathaim" as Cushan-rishathaim_1
+class "Adoni-bezek" as Adoni_bezek_1
+class "Cushan-rishathaim" as Cushan_rishathaim_1
 class "Eglon" as Eglon_1
 class "Ehud" as Ehud_1
 class "Gera" as Gera_2
@@ -625,7 +625,7 @@ class "Jonathan" as Jonathan_2
 class "Ahijah" as Ahijah_1
 class "Ahitub" as Ahitub_1
 class "Ishvi" as Ishvi_2
-class "Malchi-shua" as Malchi-shua_1
+class "Malchi-shua" as Malchi_shua_1
 class "Merab" as Merab_1
 class "Michal" as Michal_1
 class "Ahinoam" as Ahinoam_1
@@ -654,7 +654,7 @@ class "Abishai" as Abishai_1
 class "Zeruiah" as Zeruiah_1
 class "Joab" as Joab_1
 class "Maoch" as Maoch_1
-class "Ish-bosheth" as Ish-bosheth_1
+class "Ish-bosheth" as Ish_bosheth_1
 class "Asahel" as Asahel_1
 class "Amnon" as Amnon_1
 class "Chileab" as Chileab_1
@@ -687,7 +687,7 @@ class "Eliada" as Eliada_1
 class "Eliphelet" as Eliphelet_1
 class "Uzzah" as Uzzah_1
 class "Ahio" as Ahio_1
-class "Obed-edom" as Obed-edom_1
+class "Obed-edom" as Obed_edom_1
 class "Nathan" as Nathan_2
 class "Hadadezer" as Hadadezer_1
 class "Rehob" as Rehob_1
@@ -735,14 +735,14 @@ class "Adoram" as Adoram_1
 class "Ira" as Ira_1
 class "Armoni" as Armoni_1
 class "Mephibosheth" as Mephibosheth_2
-class "Ishbi-benob" as Ishbi-benob_1
+class "Ishbi-benob" as Ishbi_benob_1
 class "Raphah" as Raphah_1
 class "Sibbecai" as Sibbecai_1
 class "Saph" as Saph_1
 class "Elhanan" as Elhanan_1
-class "Jaare-oregim" as Jaare-oregim_1
+class "Jaare-oregim" as Jaare_oregim_1
 class "Jonathan" as Jonathan_4
-class "Josheb-basshebeth" as Josheb-basshebeth_1
+class "Josheb-basshebeth" as Josheb_basshebeth_1
 class "Eleazar" as Eleazar_3
 class "Dodo" as Dodo_2
 class "Shammah" as Shammah_3
@@ -762,7 +762,7 @@ class "Baanah" as Baanah_2
 class "Ribai" as Ribai_1
 class "Benaiah" as Benaiah_2
 class "Hiddai" as Hiddai_1
-class "Abi-albon" as Abi-albon_1
+class "Abi-albon" as Abi_albon_1
 class "Azmaveth" as Azmaveth_1
 class "Eliahba" as Eliahba_1
 class "Jashen" as Jashen_1
@@ -796,14 +796,14 @@ class "Nathan" as Nathan_5
 class "Ahishar" as Ahishar_1
 class "Adoniram" as Adoniram_1
 class "Abda" as Abda_1
-class "Ben-hur" as Ben-hur_1
-class "Ben-deker" as Ben-deker_1
-class "Ben-hesed" as Ben-hesed_1
-class "Ben-abinadab" as Ben-abinadab_1
+class "Ben-hur" as Ben_hur_1
+class "Ben-deker" as Ben_deker_1
+class "Ben-hesed" as Ben_hesed_1
+class "Ben-abinadab" as Ben_abinadab_1
 class "Taphath" as Taphath_1
 class "Baana" as Baana_1
 class "Ahilud" as Ahilud_2
-class "Ben-geber" as Ben-geber_1
+class "Ben-geber" as Ben_geber_1
 class "Ahinadab" as Ahinadab_1
 class "Iddo" as Iddo_1
 class "Ahimaaz" as Ahimaaz_3
@@ -844,7 +844,7 @@ class "Maacah" as Maacah_3
 class "Abishalom" as Abishalom_1
 class "Asa" as Asa_1
 class "Baasha" as Baasha_1
-class "Ben-hadad" as Ben-hadad_1
+class "Ben-hadad" as Ben_hadad_1
 class "Tabrimmon" as Tabrimmon_1
 class "Hezion" as Hezion_1
 class "Jehoshaphat" as Jehoshaphat_3
@@ -922,7 +922,7 @@ class "Pekah" as Pekah_1
 class "Remaliah" as Remaliah_1
 class "Argob" as Argob_1
 class "Arieh" as Arieh_1
-class "Tiglath-pileser" as Tiglath-pileser_1
+class "Tiglath-pileser" as Tiglath_pileser_1
 class "Hoshea" as Hoshea_1
 class "Elah" as Elah_3
 class "Jotham" as Jotham_3
@@ -938,7 +938,7 @@ class "Abi" as Abi_1
 class "Zechariah" as Zechariah_2
 class "Sennacherib" as Sennacherib_1
 class "Tartan" as Tartan_1
-class "Rab-saris" as Rab-saris_1
+class "Rab-saris" as Rab_saris_1
 class "Rabshakeh" as Rabshakeh_1
 class "Eliakim" as Eliakim_1
 class "Hilkiah" as Hilkiah_1
@@ -951,7 +951,7 @@ class "Tirhakah" as Tirhakah_1
 class "Adrammelech" as Adrammelech_1
 class "Sharezer" as Sharezer_1
 class "Esarhaddon" as Esarhaddon_1
-class "Berodach-baladan" as Berodach-baladan_1
+class "Berodach-baladan" as Berodach_baladan_1
 class "Baladan" as Baladan_1
 class "Manasseh" as Manasseh_3
 class "Hephzibah" as Hephzibah_1
@@ -974,7 +974,7 @@ class "Huldah" as Huldah_1
 class "Shallum" as Shallum_2
 class "Tikvah" as Tikvah_1
 class "Harhas" as Harhas_1
-class "Nathan-melech" as Nathan-melech_1
+class "Nathan-melech" as Nathan_melech_1
 class "Pharaoh Neco" as Pharaoh_Neco_1
 class "Jehoahaz" as Jehoahaz_2
 class "Hamutal" as Hamutal_1
@@ -997,8 +997,8 @@ class "Seraiah" as Seraiah_2
 class "Tanhumeth" as Tanhumeth_1
 class "Jaazaniah" as Jaazaniah_1
 class "Elishama" as Elishama_3
-class "Evil-merodach" as Evil-merodach_1
-class "Bath-shua" as Bath-shua_1
+class "Evil-merodach" as Evil_merodach_1
+class "Bath-shua" as Bath_shua_1
 class "Ethan" as Ethan_2
 class "Heman" as Heman_2
 class "Calcol" as Calcol_2
@@ -1117,7 +1117,7 @@ class "Hashubah" as Hashubah_1
 class "Ohel" as Ohel_1
 class "Berechiah" as Berechiah_1
 class "Hasadiah" as Hasadiah_1
-class "Jushab-hesed" as Jushab-hesed_1
+class "Jushab-hesed" as Jushab_hesed_1
 class "Pelatiah" as Pelatiah_1
 class "Jeshaiah" as Jeshaiah_1
 class "Rephaiah" as Rephaiah_1
@@ -1172,7 +1172,7 @@ class "Chelub" as Chelub_1
 class "Shuhah" as Shuhah_1
 class "Mehir" as Mehir_1
 class "Eshton" as Eshton_1
-class "Beth-rapha" as Beth-rapha_1
+class "Beth-rapha" as Beth_rapha_1
 class "Paseah" as Paseah_1
 class "Tehinnah" as Tehinnah_1
 class "Seraiah" as Seraiah_3
@@ -1217,7 +1217,7 @@ class "Benhanan" as Benhanan_1
 class "Tilon" as Tilon_1
 class "Ishi" as Ishi_2
 class "Zoheth" as Zoheth_1
-class "Ben-zoheth" as Ben-zoheth_1
+class "Ben-zoheth" as Ben_zoheth_1
 class "Er" as Er_2
 class "Lecah" as Lecah_1
 class "Laadah" as Laadah_1
@@ -1225,7 +1225,7 @@ class "Mareshah" as Mareshah_2
 class "Jokim" as Jokim_1
 class "Joash" as Joash_5
 class "Saraph" as Saraph_1
-class "Jashubi-lehem" as Jashubi-lehem_1
+class "Jashubi-lehem" as Jashubi_lehem_1
 class "Shallum" as Shallum_5
 class "Mibsam" as Mibsam_2
 class "Mishma" as Mishma_2
@@ -1266,7 +1266,7 @@ class "Micah" as Micah_2
 class "Reaiah" as Reaiah_2
 class "Baal" as Baal_1
 class "Beerah" as Beerah_1
-class "Tilgath-pilneser" as Tilgath-pilneser_1
+class "Tilgath-pilneser" as Tilgath_pilneser_1
 class "Jeiel" as Jeiel_1
 class "Zechariah" as Zechariah_3
 class "Bela" as Bela_3
@@ -1627,13 +1627,13 @@ class "-" as Naamah_16
 class "-" as Eve_3
 class "-" as Elisha_2
 class "-" as Younger_of_Lot_1
-class "-" as G-d_1
+class "-" as G_d_1
 class "-" as Nahshon_2
 class "-" as Nachash_1
 class "-" as Achish
 class "-" as Jeiel_2
 class "-" as nan
-Eve_1 .right. Adam_1
+Eve_1 .left. Adam_1
 Adam_1 --> Cain_1
 Adam_1 --> Abel_1
 Cain_1 --> Enoch_1
@@ -1641,9 +1641,1196 @@ Enoch_1 --> Irad_1
 Irad_1 --> Mehujael_1
 Mehujael_1 --> Methushael_1
 Methushael_1 --> Lamech_1
-Adah_1 .right. Lamech_1
-Zillah_1 .right. Lamech_1
+Adah_1 .left. Lamech_1
+Zillah_1 .left. Lamech_1
 Lamech_1 --> Jabal_1
 Lamech_1 --> Jubal_1
+Lamech_1 --> Tubal_cain_1
+Lamech_1 --> Naamah_1
+Adam_1 --> Seth_1
+Seth_1 --> Enosh_1
+Enosh_1 --> Kenan_1
+Kenan_1 --> Mahalalel_1
+Mahalalel_1 --> Jared_1
+Jared_1 --> Enoch_2
+Enoch_2 --> Methuselah_1
+Methuselah_1 --> Lamech_2
+Lamech_2 --> Noah_1
+Noah_1 --> Japheth_1
+Noah_1 --> Shem_1
+Noah_1 --> Ham_1
+Ham_1 --> Canaan_1
+Japheth_1 --> Gomer_1
+Japheth_1 --> Magog_1
+Japheth_1 --> Madai_1
+Japheth_1 --> Javan_1
+Japheth_1 --> Tubal_1
+Japheth_1 --> Meshech_1
+Japheth_1 --> Tiras_1
+Japheth_1 --> Elisha_2
+Gomer_1 --> Ashkenaz_1
+Gomer_1 --> Riphath_1
+Gomer_1 --> Togarmah_1
+Javan_1 --> Elishah_1
+Javan_1 --> Tarshish_1
+Javan_1 --> Kittim_1
+Javan_1 --> Dodanim_1
+Ham_1 --> Cush_1
+Ham_1 --> Mizraim_1
+Ham_1 --> Put_1
+Cush_1 --> Seba_1
+Cush_1 --> Havilah_1
+Cush_1 --> Sabtah_1
+Cush_1 --> Raamah_1
+Cush_1 --> Sabteca_1
+Raamah_1 --> Sheba_1
+Raamah_1 --> Dedan_1
+Cush_1 --> Nimrod_1
+Mizraim_1 --> Lud_1
+Mizraim_1 --> Anam_1
+Mizraim_1 --> Lehab_1
+Mizraim_1 --> Naphtuh_1
+Mizraim_1 --> Pathrus_1
+Mizraim_1 --> Casluh_1
+Mizraim_1 --> Caphtor_1
+Canaan_1 --> Sidon_1
+Canaan_1 --> Heth_1
+Canaan_1 --> Jebus_1
+Canaan_1 --> Amor_1
+Canaan_1 --> Girgas_1
+Canaan_1 --> Hivi_1
+Canaan_1 --> Ark_1
+Canaan_1 --> Sini_1
+Canaan_1 --> Arvad_1
+Canaan_1 --> Zemar_1
+Canaan_1 --> Hamath_1
+Shem_1 --> Elam_1
+Shem_1 --> Asshur_1
+Shem_1 --> Arpachshad_1
+Shem_1 --> Lud_2
+Shem_1 --> Aram_1
+Aram_1 --> Uz_1
+Aram_1 --> Hul_1
+Aram_1 --> Gether_1
+Aram_1 --> Mash_1
+Arpachshad_1 --> Shelah_1
+Shelah_1 --> Eber_1
+Eber_1 --> Peleg_1
+Eber_1 --> Joktan_1
+Joktan_1 --> Almodad_1
+Joktan_1 --> Sheleph_1
+Joktan_1 --> Hazarmaveth_1
+Joktan_1 --> Jerah_1
+Joktan_1 --> Hadoram_1
+Joktan_1 --> Uzal_1
+Joktan_1 --> Diklah_1
+Joktan_1 --> Obal_1
+Joktan_1 --> Abimael_1
+Joktan_1 --> Sheba_2
+Joktan_1 --> Ophir_1
+Joktan_1 --> Havilah_2
+Joktan_1 --> Jobab_1
+Peleg_1 --> Reu_1
+Reu_1 --> Serug_1
+Serug_1 --> Nahor_1
+Nahor_1 --> Terah_1
+Terah_1 --> Abram_1
+Terah_1 --> Nahor_2
+Terah_1 --> Haran_1
+Haran_1 --> Lot_1
+Sarai_1 .left. Abram_1
+Milcah_1 .left. Nahor_2
+Haran_1 --> Milcah_1
+Haran_1 --> Iscah_1
+Abram_1 --> Ishmael_1
+Abram_1 --> Isaac_1
+Wife_of_Lot_1 .left. Lot_1
+Lot_1 --> Firstborn_of_Lot_1
+Lot_1 --> Younger_of_Lot_1
+Lot_1 --> Moab_1
+Lot_1 --> Ben_ammi_1
+Terah_1 --> Sarai_1
+Nahor_2 --> Uz_2
+Nahor_2 --> Buz_1
+Nahor_2 --> Kemuel_1
+Kemuel_1 --> Aram_2
+Nahor_2 --> Chesed_1
+Nahor_2 --> Hazo_1
+Nahor_2 --> Pildash_1
+Nahor_2 --> Jidlaph_1
+Nahor_2 --> Bethuel_1
+Bethuel_1 --> Rebekah_1
+Nahor_2 --> Tebah_1
+Nahor_2 --> Gaham_1
+Nahor_2 --> Tahash_1
+Nahor_2 --> Maacah_1
+Zohar_1 --> Ephron_1
+Keturah_1 .left. Abram_1
+Abram_1 --> Zimran_1
+Abram_1 --> Jokshan_1
+Abram_1 --> Medan_1
+Abram_1 --> Midian_1
+Abram_1 --> Ishbak_1
+Abram_1 --> Shuah_1
+Jokshan_1 --> Sheba_3
+Jokshan_1 --> Dedan_2
+Dedan_2 --> Asshur_2
+Dedan_2 --> Letush_1
+Dedan_2 --> Leum_1
+Midian_1 --> Ephah_1
+Midian_1 --> Epher_1
+Midian_1 --> Hanoch_1
+Midian_1 --> Abida_1
+Midian_1 --> Eldaah_1
+Ishmael_1 --> Nebaioth_1
+Ishmael_1 --> Kedar_1
+Ishmael_1 --> Adbeel_1
+Ishmael_1 --> Mibsam_1
+Ishmael_1 --> Mishma_1
+Ishmael_1 --> Dumah_1
+Ishmael_1 --> Massa_1
+Ishmael_1 --> Hadad_1
+Ishmael_1 --> Tema_1
+Ishmael_1 --> Jetur_1
+Ishmael_1 --> Naphish_1
+Ishmael_1 --> Kedemah_1
+Isaac_1 --> Esau_1
+Isaac_1 --> Jacob_1
+Judith_1 .left. Esau_1
+Beeri_1 --> Judith_1
+Basemath_1 .left. Esau_1
+Elon_1 --> Basemath_1
+Mahalath_1 .left. Esau_1
+Ishmael_1 --> Mahalath_1
+Laban_1 --> Rachel_1
+Laban_1 --> Leah_1
+Jacob_1 --> Reuben_1
+Jacob_1 --> Simeon_1
+Jacob_1 --> Levi_1
+Jacob_1 --> Judah_1
+Bilhah_1 .left. Jacob_1
+Jacob_1 --> Dan_1
+Jacob_1 --> Naphtali_1
+Zilpah_1 .left. Jacob_1
+Jacob_1 --> Gad_1
+Jacob_1 --> Asher_1
+Jacob_1 --> Issachar_1
+Jacob_1 --> Zebulun_1
+Jacob_1 --> Dinah_1
+Jacob_1 --> Joseph_1
+Hamor_1 --> Shechem_1
+Joseph_1 --> Benjamin_1
+Esau_1 --> Eliphaz_1
+Esau_1 --> Reuel_1
+Esau_1 --> Jeush_1
+Esau_1 --> Jalam_1
+Esau_1 --> Korah_1
+Eliphaz_1 --> Teman_1
+Eliphaz_1 --> Omar_1
+Eliphaz_1 --> Zepho_1
+Eliphaz_1 --> Gatam_1
+Eliphaz_1 --> Kenaz_1
+Eliphaz_1 --> Amalek_1
+Reuel_1 --> Nahath_1
+Reuel_1 --> Zerah_1
+Reuel_1 --> Shammah_1
+Reuel_1 --> Mizzah_1
+Eliphaz_1 --> Korah_2
+Seir_1 --> Lotan_1
+Seir_1 --> Shobal_1
+Seir_1 --> Zibeon_2
+Seir_1 --> Dishon_1
+Seir_1 --> Ezer_1
+Seir_1 --> Dishan_1
+Lotan_1 --> Hori_1
+Lotan_1 --> Hemam_1
+Shobal_1 --> Alvan_1
+Shobal_1 --> Manahath_1
+Shobal_1 --> Ebal_1
+Shobal_1 --> Shepho_1
+Shobal_1 --> Onam_1
+Zibeon_2 --> Aiah_1
+Zibeon_2 --> Beeri_1
+Beeri_1 --> Dishon_2
+Dishon_2 --> Hemdan_1
+Dishon_2 --> Eshban_1
+Dishon_2 --> Ithran_1
+Dishon_2 --> Cheran_1
+Ezer_1 --> Bilhan_1
+Ezer_1 --> Zaavan_1
+Ezer_1 --> Akan_1
+Ezer_1 --> Jucam_1
+Dishan_1 --> Uz_3
+Dishan_1 --> Aran_1
+Beor_1 --> Bela_1
+Zerah_2 --> Jobab_2
+Bedad_1 --> Hadad_2
+Achbor_1 --> Baal_hanan_1
+Mehetabel_1 .left. Hadar_1
+Judah_1 --> Er_1
+Judah_1 --> Onan_1
+Judah_1 --> Shelah_2
+Tamar_1 .left. Er_1
+Judah_1 --> Perez_1
+Judah_1 --> Zerah_3
+Asenath_1 .left. Joseph_1
+Potiphera_1 --> Asenath_1
+Joseph_1 --> Manasseh_1
+Joseph_1 --> Ephraim_1
+Reuben_1 --> Hanoch_2
+Reuben_1 --> Pallu_1
+Reuben_1 --> Hezron_1
+Reuben_1 --> Carmi_1
+Simeon_1 --> Jemuel_1
+Simeon_1 --> Jamin_1
+Simeon_1 --> Ohad_1
+Simeon_1 --> Jachin_1
+Simeon_1 --> Zohar_2
+Simeon_1 --> Shaul_2
+Levi_1 --> Gershon_1
+Levi_1 --> Kohath_1
+Levi_1 --> Merari_1
+Perez_1 --> Hezron_2
+Perez_1 --> Hamul_1
+Issachar_1 --> Tola_1
+Issachar_1 --> Puvvah_1
+Issachar_1 --> Iob_1
+Issachar_1 --> Shimron_1
+Zebulun_1 --> Sered_1
+Zebulun_1 --> Elon_2
+Zebulun_1 --> Jahleel_1
+Gad_1 --> Ziphion_1
+Gad_1 --> Haggi_1
+Gad_1 --> Shuni_1
+Gad_1 --> Ezbon_1
+Gad_1 --> Eri_1
+Gad_1 --> Arodi_1
+Gad_1 --> Areli_1
+Asher_1 --> Imnah_1
+Asher_1 --> Ishvah_1
+Asher_1 --> Ishvi_1
+Asher_1 --> Beriah_1
+Asher_1 --> Serah_1
+Beriah_1 --> Heber_1
+Beriah_1 --> Malchiel_1
+Benjamin_1 --> Bela_2
+Benjamin_1 --> Becher_1
+Benjamin_1 --> Ashbel_1
+Benjamin_1 --> Gera_1
+Benjamin_1 --> Ehi_1
+Benjamin_1 --> Rosh_1
+Dan_1 --> Hushim_1
+Naphtali_1 --> Jahzeel_1
+Naphtali_1 --> Guni_1
+Naphtali_1 --> Jezer_1
+Naphtali_1 --> Shillem_1
+Manasseh_1 --> Machir_1
+Reuel_2 --> Zipporah_1
+Zipporah_1 .left. Moses_1
+Moses_1 --> Gershom_1
+Gershon_1 --> Libni_1
+Gershon_1 --> Shimei_1
+Kohath_1 --> Amram_1
+Kohath_1 --> Izhar_1
+Kohath_1 --> Hebron_1
+Kohath_1 --> Uzziel_1
+Merari_1 --> Mahli_1
+Merari_1 --> Mushi_1
+Jochebed_1 .left. Amram_1
+Amram_1 --> Aaron_1
+Amram_1 --> Moses_1
+Izhar_1 --> Korah_3
+Izhar_1 --> Nepheg_1
+Izhar_1 --> Zichri_1
+Uzziel_1 --> Mishael_1
+Uzziel_1 --> Elzaphan_1
+Uzziel_1 --> Sithri_1
+Elisheba_1 .left. Aaron_1
+Amminadab_1 --> Elisheba_1
+Amminadab_1 --> Nahshon_1
+Aaron_1 --> Nadab_1
+Aaron_1 --> Abihu_1
+Aaron_1 --> Eleazar_1
+Aaron_1 --> Ithamar_1
+Korah_3 --> Assir_1
+Korah_3 --> Elkanah_1
+Korah_3 --> Abiasaph_1
+Eleazar_1 --> Phinehas_1
+Amram_1 --> Miriam_1
+Moses_1 --> Eliezer_2
+Uri_1 --> Bezalel_1
+Hur_1 --> Uri_1
+Ahisamach_1 --> Oholiab_1
+Nun_1 --> Joshua_1
+Shedeur_1 --> Elizur_1
+Zurishaddai_1 --> Shelumiel_1
+Zuar_1 --> Nethanel_1
+Helon_1 --> Eliab_1
+Ammihud_1 --> Elishama_1
+Pedahzur_1 --> Gamaliel_1
+Gideoni_1 --> Abidan_1
+Ammishaddai_1 --> Ahiezer_1
+Ochran_1 --> Pagiel_1
+Deuel_1 --> Eliasaph_1
+Enan_1 --> Ahira_1
+Abihail_1 --> Zuriel_1
+Reuel_2 --> Hobab_1
+Zaccur_1 --> Shammua_1
+Hori_2 --> Shaphat_1
+Jephunneh_1 --> Caleb_1
+Joseph_2 --> Igal_1
+Raphu_1 --> Palti_1
+Sodi_1 --> Gaddiel_1
+Susi_1 --> Gaddi_1
+Gemalli_1 --> Ammiel_1
+Michael_1 --> Sethur_1
+Vophsi_1 --> Nahbi_1
+Machi_1 --> Geuel_1
+Eliab_2 --> Dathan_1
+Eliab_2 --> Abiram_1
+Peleth_1 --> On_1
+Zippor_1 --> Balak_1
+Beor_2 --> Balaam_1
+Salu_1 --> Zimri_1
+Simeon_1 --> Salu_1
+Zur_1 --> Cozbi_1
+Pallu_1 --> Eliab_2
+Machir_1 --> Gilead_1
+Gilead_1 --> Iezer_1
+Gilead_1 --> Helek_1
+Gilead_1 --> Asriel_1
+Gilead_1 --> Shechem_2
+Gilead_1 --> Shemida_1
+Gilead_1 --> Hepher_1
+Hepher_1 --> Zelophehad_1
+Zelophehad_1 --> Mahlah_1
+Zelophehad_1 --> Noah_2
+Zelophehad_1 --> Hoglah_1
+Zelophehad_1 --> Milcah_2
+Zelophehad_1 --> Tirzah_1
+Ephraim_1 --> Shuthelah_1
+Ephraim_1 --> Becher_2
+Ephraim_1 --> Tahan_1
+Shuthelah_1 --> Eran_1
+Bela_2 --> Ard_1
+Bela_2 --> Naaman_1
+Ammihud_2 --> Samuel_1
+Chislon_1 --> Elidad_1
+Jogli_1 --> Bukki_1
+Ephod_1 --> Hanniel_1
+Shiphtan_1 --> Kemuel_2
+Parnach_1 --> Elizaphan_1
+Azzan_1 --> Paltiel_1
+Shelomi_1 --> Ahihud_1
+Ammihud_3 --> Pedahel_1
+Carmi_2 --> Achan_1
+Zabdi_1 --> Carmi_2
+Zerah_3 --> Zabdi_1
+Arba_1 --> Anak_1
+Anak_1 --> Sheshai_1
+Anak_1 --> Ahiman_1
+Anak_1 --> Talmai_1
+Caleb_1 --> Achsah_1
+Kenaz_2 --> Othniel_1
+Achsah_1 .left. Othniel_1
+Gera_2 --> Ehud_1
+Anath_1 --> Shamgar_1
+Deborah_2 .left. Lappidoth_1
+Abinoam_1 --> Barak_1
+Jael_1 .left. Heber_2
+Joash_1 --> Gideon_1
+Gideon_1 --> Jether_1
+Gideon_1 --> Abimelech_2
+Gideon_1 --> Jotham_1
+Ebed_1 --> Gaal_1
+Puah_2 --> Tola_2
+Dodo_1 --> Puah_2
+Gilead_2 --> Jephthah_1
+Hillel_1 --> Abdon_1
+Manoah_1 --> Samson_1
+Gershom_2 --> Jonathan_1
+Gershom_2 --> Manasseh_2
+Naomi_1 .left. Elimelech_1
+Elimelech_1 --> Mahlon_1
+Elimelech_1 --> Chilion_1
+Orpah_1 .left. Chilion_1
+Ruth_1 .left. Mahlon_1
+Ruth_1 .left. Boaz_1
+Boaz_1 --> Obed_1
+Obed_1 --> Jesse_1
+Jesse_1 --> David_1
+Hezron_2 --> Ram_1
+Ram_1 --> Amminadab_1
+Nahshon_2 --> Salmon_1
+Salmon_1 --> Boaz_1
+Jeroham_1 --> Elkanah_2
+Elihu_1 --> Jeroham_1
+Tohu_1 --> Elihu_1
+Zuph_1 --> Tohu_1
+Hannah_1 .left. Elkanah_2
+Peninnah_1 .left. Elkanah_2
+Eli_1 --> Hophni_1
+Eli_1 --> Phinehas_2
+Elkanah_2 --> Samuel_2
+Phinehas_2 --> Ichabod_1
+Abinadab_1 --> Eleazar_2
+Samuel_2 --> Joel_1
+Samuel_2 --> Abijah_1
+Abiel_1 --> Kish_1
+Zeror_1 --> Abiel_1
+Becorath_1 --> Zeror_1
+Becorath_1 --> Aphiah_1
+Kish_1 --> Saul_1
+Saul_1 --> Jonathan_2
+Ahitub_1 --> Ahijah_1
+Phinehas_2 --> Ahitub_1
+Saul_1 --> Ishvi_2
+Saul_1 --> Malchi_shua_1
+Saul_1 --> Merab_1
+Saul_1 --> Michal_1
+Ahinoam_1 .left. Saul_1
+Ahimaaz_1 --> Ahinoam_1
+Ner_1 --> Abner_1
+Abiel_1 --> Ner_1
+Jesse_1 --> Eliab_3
+Jesse_1 --> Abinadab_2
+Jesse_1 --> Shammah_2
+Merab_1 .left. Adriel_1
+Michal_1 .left. David_1
+Ahitub_1 --> Ahimelech_1
+Ahimelech_1 --> Abiathar_1
+Abigail_1 .left. Nabal_1
+Abigail_1 .left. David_1
+Ahinoam_2 .left. David_1
+Michal_1 .left. Palti_2
+Maoch_1 --> Achish
+Saul_1 --> Ish_bosheth_1
+David_1 --> Amnon_1
+David_1 --> Chileab_1
+David_1 --> Absalom_1
+Maacah_2 .left. David_1
+Talmai_2 --> Maacah_2
+David_1 --> Adonijah_1
+Haggith_1 .left. David_1
+David_1 --> Shephatiah_1
+Abital_1 .left. David_1
+David_1 --> Ithream_1
+Eglah_1 .left. David_1
+Aiah_2 --> Rizpah_1
+Rimmon_1 --> Baanah_1
+Rimmon_1 --> Rechab_1
+Jonathan_2 --> Mephibosheth_1
+David_1 --> Shammua_2
+David_1 --> Shobab_1
+David_1 --> Nathan_1
+David_1 --> Solomon_1
+David_1 --> Ibhar_1
+David_1 --> Elishua_1
+David_1 --> Nepheg_2
+David_1 --> Japhia_2
+David_1 --> Elishama_2
+David_1 --> Eliada_1
+David_1 --> Eliphelet_1
+Abinadab_1 --> Uzzah_1
+Abinadab_1 --> Ahio_1
+Toi_1 --> Joram_1
+Ahilud_1 --> Jehoshaphat_1
+Ahitub_2 --> Zadok_1
+Abiathar_1 --> Ahimelech_3
+Jehoiada_1 --> Benaiah_1
+Ammiel_2 --> Machir_2
+Mephibosheth_1 --> Mica_1
+Nahash_1 --> Hanun_1
+Eliam_1 --> Bathsheba_1
+Bathsheba_1 .left. Uriah_1
+Jerubbesheth_1 --> Abimelech_3
+Bathsheba_1 .left. David_1
+David_1 --> Tamar_2
+Shammah_2 --> Jonadab_1
+Ammihud_4 --> Talmai_2
+Absalom_1 --> Tamar_3
+Zadok_1 --> Ahimaaz_2
+Abiathar_1 --> Jonathan_3
+Gera_3 --> Shimei_2
+Ithra_1 --> Amasa_1
+Nahash_1 --> Abigail_2
+Nahash_1 --> Shobi_1
+Bichri_1 --> Sheba_4
+Saul_1 --> Armoni_1
+Saul_1 --> Mephibosheth_2
+Raphah_1 --> Ishbi_benob_1
+Jaare_oregim_1 --> Elhanan_1
+Shammah_2 --> Jonathan_4
+Dodo_2 --> Eleazar_3
+Agee_1 --> Shammah_3
+Ikkesh_1 --> Ira_2
+Baanah_2 --> Heleb_1
+Ribai_1 --> Ittai_1
+Eliahba_1 --> Jashen_1
+Eliahba_1 --> Jonathan_5
+Sharar_1 --> Ahiam_1
+Ahasbai_1 --> Eliphelet_2
+Ahithophel_1 --> Eliam_2
+Nathan_3 --> Igal_2
+Zadok_1 --> Azariah_1
+Shisha_1 --> Elihoreph_1
+Shisha_1 --> Ahijah_2
+Nathan_4 --> Azariah_2
+Nathan_5 --> Zabud_1
+Abda_1 --> Adoniram_1
+Solomon_1 --> Taphath_1
+Taphath_1 .left. Ben_abinadab_1
+Ahilud_2 --> Baana_1
+Iddo_1 --> Ahinadab_1
+Basemath_2 .left. Ahimaaz_3
+Solomon_1 --> Basemath_2
+Hushai_2 --> Baana_2
+Paruah_1 --> Jehoshaphat_2
+Ela_1 --> Shimei_4
+Uri_2 --> Geber_1
+Mahol_1 --> Heman_1
+Mahol_1 --> Calcol_1
+Mahol_1 --> Darda_1
+Tahpenes_1 .left. Pharaoh_4
+Hadad_3 --> Genubath_1
+Nebat_1 --> Jeroboam_1
+Solomon_1 --> Rehoboam_1
+Jeroboam_1 --> Abijah_2
+Jeroboam_1 --> Nadab_2
+Rehoboam_1 --> Abijam_1
+Abishalom_1 --> Maacah_3
+Abijam_1 --> Asa_1
+Tabrimmon_1 --> Ben_hadad_1
+Hezion_1 --> Tabrimmon_1
+Asa_1 --> Jehoshaphat_3
+Ahijah_2 --> Baasha_1
+Hanani_1 --> Jehu_1
+Baasha_1 --> Elah_2
+Ginath_1 --> Tibni_1
+Omri_1 --> Ahab_1
+Jezebel_1 .left. Ahab_1
+Ethbaal_1 --> Jezebel_1
+Hiel_1 --> Abiram_2
+Hiel_1 --> Segub_1
+Shaphat_2 --> Elisha_1
+Imlah_1 --> Micaiah_1
+Chenaanah_1 --> Zedekiah_1
+Ahab_1 --> Joash_2
+Ahab_1 --> Ahaziah_1
+Shilhi_1 --> Azubah_1
+Jehoshaphat_3 --> Jehoram_1
+Ahab_1 --> Jehoram_2
+Jehoram_1 --> Ahaziah_2
+Athaliah_1 .left. Jehoram_1
+Nimshi_1 --> Jehoshaphat_4
+Jehoshaphat_4 --> Jehu_2
+Rechab_2 --> Jehonadab_1
+Jehu_2 --> Jehoahaz_1
+Jehoram_1 --> Jehosheba_1
+Ahaziah_2 --> Joash_3
+Shimeath_1 --> Jozacar_1
+Shomer_1 --> Jehozabad_1
+Joash_3 --> Amaziah_1
+Jehoahaz_1 --> Joash_4
+Joash_4 --> Jeroboam_2
+Amaziah_1 --> Azariah_3
+Amittai_1 --> Jonah_1
+Jeroboam_2 --> Zechariah_1
+Azariah_3 --> Jotham_2
+Jabesh_1 --> Shallum_1
+Menachem_1 --> Pekahiah_1
+Remaliah_1 --> Pekah_1
+Elah_3 --> Hoshea_1
+Uzziah_1 --> Jotham_3
+Zadok_2 --> Jerusha_1
+Jotham_3 --> Ahaz_1
+Ahaz_1 --> Hezekiah_1
+Zechariah_2 --> Abi_1
+Hilkiah_1 --> Eliakim_1
+Asaph_1 --> Joah_1
+Amoz_1 --> Isaiah_1
+Baladan_1 --> Berodach_baladan_1
+Hezekiah_1 --> Manasseh_3
+Haruz_1 --> Meshullemeth_1
+Amon_2 --> Josiah_2
+Adaiah_1 --> Jedidah_1
+Azaliah_1 --> Shaphan_1
+Meshullam_1 --> Azaliah_1
+Shaphan_1 --> Ahikam_1
+Micaiah_2 --> Achbor_2
+Huldah_1 .left. Shallum_2
+Tikvah_1 --> Shallum_2
+Harhas_1 --> Tikvah_1
+Josiah_2 --> Jehoahaz_2
+Jeremiah_1 --> Hamutal_1
+Josiah_2 --> Eliakim_2
+Pedaiah_1 --> Zebidah_1
+Eliakim_2 --> Jehoiachin_1
+Elnathan_1 --> Nehushta_1
+Josiah_2 --> Mattaniah_1
+Ahikam_1 --> Gedaliah_1
+Nethaniah_1 --> Ishmael_2
+Kareah_1 --> Johanan_1
+Tanhumeth_1 --> Seraiah_2
+Elishama_3 --> Nethaniah_1
+Zibeon_2 --> Beeri_1
+Zerah_3 --> Ethan_2
+Zerah_3 --> Heman_2
+Zerah_3 --> Calcol_2
+Zerah_3 --> Dara_1
+Ethan_2 --> Azariah_4
+Hezron_2 --> Jerahmeel_1
+Hezron_2 --> Chelubai_1
+Jesse_1 --> Nethanel_2
+Jesse_1 --> Raddai_1
+Jesse_1 --> Ozem_1
+Azubah_2 .left. Chelubai_1
+Jerioth_1 .left. Chelubai_1
+Chelubai_1 --> Jesher_1
+Chelubai_1 --> Shobab_2
+Azubah_2 --> Ardon_1
+Ephrath_1 .left. Chelubai_1
+Chelubai_1 --> Hur_1
+Hezron_2 --> Segub_2
+Machir_1 --> Abijah_3
+Abijah_3 .left. Hezron_2
+Segub_2 --> Jair_1
+Hezron_2 --> Ashhur_1
+Ashhur_1 --> Tekoa_1
+Jerahmeel_1 --> Ram_2
+Jerahmeel_1 --> Bunah_1
+Jerahmeel_1 --> Oren_1
+Jerahmeel_1 --> Ozem_2
+Jerahmeel_1 --> Ahijah_3
+Atarah_1 .left. Jerahmeel_1
+Jerahmeel_1 --> Onam_2
+Ram_2 --> Maaz_1
+Ram_2 --> Jamin_2
+Ram_2 --> Eker_1
+Onam_2 --> Shammai_1
+Onam_2 --> Jada_1
+Shammai_1 --> Nadab_3
+Shammai_1 --> Abishur_1
+Abihail_2 .left. Abishur_1
+Abishur_1 --> Ahban_1
+Abishur_1 --> Molid_1
+Nadab_3 --> Seled_1
+Nadab_3 --> Appaim_1
+Appaim_1 --> Ishi_1
+Ishi_1 --> Sheshan_1
+Sheshan_1 --> Ahlai_1
+Jada_1 --> Jether_2
+Jada_1 --> Jonathan_6
+Jonathan_6 --> Peleth_2
+Jonathan_6 --> Zaza_1
+Jarha_1 --> Attai_1
+Attai_1 --> Nathan_6
+Nathan_6 --> Zabad_1
+Zabad_1 --> Ephlal_1
+Ephlal_1 --> Obed_2
+Obed_2 --> Jehu_3
+Jehu_3 --> Azariah_5
+Azariah_5 --> Helez_2
+Helez_2 --> Eleasah_1
+Eleasah_1 --> Sismai_1
+Sismai_1 --> Shallum_3
+Shallum_3 --> Jekamiah_1
+Jekamiah_1 --> Elishama_4
+Chelubai_1 --> Mesha_2
+Mesha_2 --> Ziph_1
+Ziph_1 --> Mareshah_1
+Mareshah_1 --> Hebron_2
+Hebron_2 --> Korah_4
+Korah_4 --> Tappuah_1
+Korah_4 --> Rekem_2
+Korah_4 --> Shema_1
+Shema_1 --> Raham_1
+Raham_1 --> Jorkeam_1
+Rekem_2 --> Shammai_2
+Shammai_2 --> Maon_1
+Maon_1 --> Bethzur_1
+Chelubai_1 --> Haran_2
+Chelubai_1 --> Moza_1
+Chelubai_1 --> Gazez_1
+Haran_2 --> Gazez_2
+Jahdai_1 --> Regem_1
+Jahdai_1 --> Jotham_4
+Jahdai_1 --> Geshan_1
+Jahdai_1 --> Pelet_1
+Jahdai_1 --> Ephah_3
+Jahdai_1 --> Shaaph_1
+Chelubai_1 --> Sheber_1
+Chelubai_1 --> Tirhanah_1
+Chelubai_1 --> Shaaph_2
+Shaaph_2 --> Madmannah_1
+Chelubai_1 --> Sheva_1
+Sheva_1 --> Machbena_1
+Sheva_1 --> Gibea_1
+Chelubai_1 --> Achsah_2
+Hur_1 --> Shobal_2
+Hur_1 --> Salma_1
+Hur_1 --> Hareph_1
+Shobal_2 --> Haroeh_1
+David_1 --> Eliphelet_3
+David_1 --> Nogah_1
+Josiah_2 --> Shallum_4
+Eliakim_2 --> Zedekiah_2
+Jehoiachin_1 --> Shealtiel_1
+Jehoiachin_1 --> Malchiram_1
+Jehoiachin_1 --> Pedaiah_2
+Jehoiachin_1 --> Shenazzar_1
+Jehoiachin_1 --> Jekamiah_2
+Jehoiachin_1 --> Hoshama_1
+Jehoiachin_1 --> Nedabiah_1
+Pedaiah_2 --> Zerubbabel_1
+Pedaiah_2 --> Shimei_4
+Zerubbabel_1 --> Meshullam_2
+Zerubbabel_1 --> Hananiah_1
+Zerubbabel_1 --> Shelomith_1
+Meshullam_2 --> Hashubah_1
+Meshullam_2 --> Ohel_1
+Meshullam_2 --> Berechiah_1
+Meshullam_2 --> Hasadiah_1
+Meshullam_2 --> Jushab_hesed_1
+Hananiah_1 --> Pelatiah_1
+Hananiah_1 --> Jeshaiah_1
+Hananiah_1 --> Rephaiah_1
+Hananiah_1 --> Arnan_1
+Hananiah_1 --> Obadiah_2
+Hananiah_1 --> Shecaniah_1
+Shecaniah_1 --> Shemaiah_2
+Shemaiah_2 --> Hattush_1
+Shemaiah_2 --> Igal_3
+Shemaiah_2 --> Bariah_1
+Shemaiah_2 --> Neariah_1
+Shemaiah_2 --> Shaphat_3
+Neariah_1 --> Elioenai_1
+Neariah_1 --> Hizkiah_1
+Neariah_1 --> Azrikam_1
+Elioenai_1 --> Hodaviah_1
+Elioenai_1 --> Eliashib_1
+Elioenai_1 --> Pelaiah_1
+Elioenai_1 --> Akkub_1
+Elioenai_1 --> Johanan_2
+Elioenai_1 --> Delaiah_1
+Elioenai_1 --> Anani_1
+Shobal_2 --> Reaiah_1
+Reaiah_1 --> Jahath_1
+Jahath_1 --> Ahumai_1
+Jahath_1 --> Lahad_1
+Etam_1 --> Jezreel_1
+Etam_1 --> Ishma_1
+Etam_1 --> Idbash_1
+Etam_1 --> Hazzelelponi_1
+Hur_1 --> Penuel_1
+Penuel_1 --> Gedor_1
+Hur_1 --> Ezer_2
+Ezer_2 --> Hushah_1
+Helah_1 .left. Ashhur_1
+Naarah_1 .left. Ashhur_1
+Ashhur_1 --> Ahuzzam_1
+Ashhur_1 --> Hepher_2
+Ashhur_1 --> Temeni_1
+Ashhur_1 --> Haahashtari_1
+Ashhur_1 --> Zereth_1
+Ashhur_1 --> Izhar_2
+Ashhur_1 --> Ethnan_1
+Koz_1 --> Anub_1
+Koz_1 --> Zobebah_1
+Koz_1 --> Harum_1
+Harum_1 --> Aharhel_1
+Chelub_1 --> Mehir_1
+Mehir_1 --> Eshton_1
+Eshton_1 --> Beth_rapha_1
+Eshton_1 --> Paseah_1
+Eshton_1 --> Tehinnah_1
+Kenaz_2 --> Seraiah_3
+Othniel_1 --> Hathath_1
+Othniel_1 --> Meonothai_1
+Meonothai_1 --> Ophrah_1
+Seraiah_3 --> Joab_2
+Caleb_1 --> Iru_1
+Caleb_1 --> Elah_4
+Caleb_1 --> Naam_1
+Elah_4 --> Kenaz_3
+Jehallelel_1 --> Ziph_2
+Jehallelel_1 --> Ziphah_1
+Jehallelel_1 --> Tiria_1
+Jehallelel_1 --> Asarel_1
+Ezrah_1 --> Jether_3
+Ezrah_1 --> Mered_1
+Ezrah_1 --> Epher_2
+Ezrah_1 --> Jalon_1
+Pharaoh_5 --> Bithia_1
+Bithia_1 .left. Mered_1
+Mered_1 --> Miriam_2
+Mered_1 --> Shammai_3
+Mered_1 --> Ishbah_1
+Ishbah_1 --> Eshtemoa_1
+Mered_1 --> Jered_1
+Jered_1 --> Gedor_2
+Mered_1 --> Heber_3
+Heber_3 --> Soco_1
+Mered_1 --> Jekuthiel_1
+Jekuthiel_1 --> Zanoah_1
+Shimon_1 --> Amnon_2
+Shimon_1 --> Rinnah_1
+Shimon_1 --> Benhanan_1
+Shimon_1 --> Tilon_1
+Ishi_2 --> Zoheth_1
+Ishi_2 --> Ben_zoheth_1
+Shelah_2 --> Er_2
+Er_2 --> Lecah_1
+Shelah_2 --> Laadah_1
+Laadah_1 --> Mareshah_2
+Shelah_2 --> Jokim_1
+Shelah_2 --> Joash_5
+Shelah_2 --> Saraph_1
+Shelah_2 --> Jashubi_lehem_1
+Shaul_2 --> Shallum_5
+Shallum_5 --> Mibsam_2
+Mibsam_2 --> Mishma_2
+Mishma_2 --> Hammuel_1
+Hammuel_1 --> Zaccur_2
+Zaccur_2 --> Shimei_5
+Amaziah_2 --> Joshah_1
+Joshibiah_1 --> Jehu_4
+Seraiah_4 --> Joshibiah_1
+Asiel_1 --> Seraiah_4
+Shiphi_1 --> Ziza_1
+Allon_1 --> Shiphi_1
+Jedaiah_1 --> Allon_1
+Shimri_1 --> Jedaiah_1
+Shemaiah_3 --> Shimri_1
+Ishi_2 --> Pelatiah_2
+Ishi_2 --> Neariah_2
+Ishi_2 --> Rephaiah_2
+Ishi_2 --> Uzziel_2
+Joel_3 --> Shemaiah_4
+Shemaiah_4 --> Gog_1
+Gog_1 --> Shimei_6
+Shimei_6 --> Micah_2
+Micah_2 --> Reaiah_2
+Reaiah_2 --> Baal_1
+Baal_1 --> Beerah_1
+Zechariah_3 --> Jeiel_1
+Bela_3 --> Zechariah_3
+Azaz_1 --> Bela_3
+Shema_2 --> Azaz_1
+Joel_3 --> Shema_2
+Jeshishai_1 --> Michael_2
+Huri_1 --> Abihail_3
+Jaroah_1 --> Huri_1
+Gilead_3 --> Jaroah_1
+Michael_2 --> Gilead_3
+Jahdo_1 --> Jeshishai_1
+Buz_2 --> Jahdo_1
+Abdiel_1 --> Ahi_1
+Guni_2 --> Abdiel_1
+Phinehas_1 --> Abishua_1
+Abishua_1 --> Bukki_2
+Bukki_2 --> Uzzi_1
+Uzzi_1 --> Zerahiah_1
+Zerahiah_1 --> Meraioth_1
+Meraioth_1 --> Amariah_1
+Ahimaaz_2 --> Azariah_6
+Azariah_6 --> Johanan_3
+Azariah_1 --> Amariah_2
+Amariah_2 --> Ahitub_4
+Ahitub_4 --> Zadok_3
+Zadok_3 --> Shallum_6
+Shallum_6 --> Hilkiah_3
+Hilkiah_3 --> Azariah_7
+Azariah_7 --> Seraiah_5
+Seraiah_5 --> Jehozadak_1
+Libni_1 --> Jahath_2
+Jahath_2 --> Zimmah_1
+Zimmah_1 --> Joah_2
+Joah_2 --> Iddo_2
+Iddo_2 --> Zerah_4
+Zerah_4 --> Jeatherai_1
+Assir_1 --> Elkanah_3
+Elkanah_3 --> Ebiasaph_1
+Ebiasaph_1 --> Assir_2
+Assir_2 --> Tahath_1
+Tahath_1 --> Uriel_1
+Uriel_1 --> Uzziah_2
+Uzziah_2 --> Shaul_3
+Elkanah_1 --> Amasai_1
+Elkanah_1 --> Ahimoth_1
+Elkanah_1 --> Zophai_1
+Zophai_1 --> Nahath_2
+Nahath_2 --> Eliab_4
+Eliab_4 --> Jeroham_2
+Jeroham_2 --> Elkanah_4
+Mahli_1 --> Libni_2
+Libni_2 --> Shimei_7
+Shimei_7 --> Uzzah_2
+Uzzah_2 --> Shimea_1
+Shimea_1 --> Haggiah_1
+Haggiah_1 --> Asaiah_3
+Joel_1 --> Heman_3
+Mahath_1 --> Elkanah_5
+Amasai_1 --> Mahath_1
+Joel_5 --> Elkanah_6
+Azariah_8 --> Joel_5
+Zephaniah_1 --> Azariah_8
+Tahath_2 --> Zephaniah_1
+Assir_3 --> Tahath_2
+Abiasaph_1 --> Assir_3
+Berechiah_2 --> Asaph_2
+Shimea_2 --> Berechiah_2
+Michael_3 --> Shimea_2
+Baaseiah_1 --> Michael_3
+Malchijah_1 --> Baaseiah_1
+Ethni_1 --> Malchijah_1
+Zerah_5 --> Ethni_1
+Adaiah_2 --> Zerah_5
+Ethan_3 --> Adaiah_2
+Zimmah_2 --> Ethan_3
+Shimei_8 --> Zimmah_2
+Jahath_3 --> Shimei_8
+Gershon_1 --> Jahath_3
+Kishi_1 --> Ethan_4
+Abdi_1 --> Kishi_1
+Malluch_1 --> Abdi_1
+Hashabiah_1 --> Malluch_1
+Amaziah_3 --> Hashabiah_1
+Hilkiah_4 --> Amaziah_3
+Amzi_1 --> Hilkiah_4
+Bani_2 --> Amzi_1
+Shemer_2 --> Bani_2
+Mahli_2 --> Shemer_2
+Mushi_1 --> Mahli_2
+Tola_1 --> Uzzi_2
+Tola_1 --> Rephaiah_3
+Tola_1 --> Jeriel_1
+Tola_1 --> Jahmai_1
+Tola_1 --> Ibsam_1
+Tola_1 --> Samuel_3
+Uzzi_2 --> Izrahiah_1
+Izrahiah_1 --> Michael_4
+Izrahiah_1 --> Obadiah_3
+Izrahiah_1 --> Joel_6
+Izrahiah_1 --> Isshiah_1
+Bela_2 --> Ezbon_2
+Bela_2 --> Uzzi_3
+Bela_2 --> Uzziel_3
+Bela_2 --> Jerimoth_1
+Bela_2 --> Iri_1
+Becher_1 --> Zemirah_1
+Becher_1 --> Joash_6
+Becher_1 --> Eliezer_3
+Becher_1 --> Elioenai_3
+Becher_1 --> Omri_2
+Becher_1 --> Jeremoth_1
+Becher_1 --> Abijah_4
+Becher_1 --> Anathoth_1
+Becher_1 --> Alemeth_1
+Ashbel_1 --> Bilhan_2
+Bilhan_2 --> Jeush_2
+Bilhan_2 --> Benjamin_2
+Bilhan_2 --> Ehud_2
+Bilhan_2 --> Chenaanah_2
+Bilhan_2 --> Zethan_1
+Bilhan_2 --> Tarshish_2
+Bilhan_2 --> Ahishahar_1
+Iri_1 --> Muppim_1
+Iri_1 --> Huppim_1
+Ehi_1 --> Hushim_2
+Manasseh_1 --> Asriel_2
+Maacah_5 .left. Machir_1
+Zelophehad_2 .left. Machir_1
+Machir_1 --> Peresh_1
+Machir_1 --> Sheresh_1
+Peresh_1 --> Ulam_1
+Peresh_1 --> Rakem_1
+Ulam_1 --> Bedan_1
+Shemida_1 --> Ahian_1
+Shemida_1 --> Shechem_3
+Shemida_1 --> Lihki_1
+Shemida_1 --> Aniam_1
+Shuthelah_1 --> Bered_1
+Bered_1 --> Tahath_3
+Tahath_3 --> Eleadah_1
+Eleadah_1 --> Tahath_4
+Tahath_4 --> Zabad_2
+Zabad_2 --> Shuthelah_2
+Ephraim_1 --> Ezer_3
+Ephraim_1 --> Elead_1
+Ephraim_1 --> Beriah_2
+Beriah_2 --> Sheerah_1
+Beriah_2 --> Rephah_1
+Beriah_2 --> Resheph_1
+Resheph_1 --> Telah_1
+Telah_1 --> Tahan_2
+Tahan_2 --> Ladan_1
+Ladan_1 --> Ammihud_1
+Malchiel_1 --> Birzaith_1
+Heber_1 --> Japhlet_1
+Heber_1 --> Shomer_2
+Heber_1 --> Hotham_1
+Heber_1 --> Shua_2
+Japhlet_1 --> Pasach_1
+Japhlet_1 --> Bimhal_1
+Japhlet_1 --> Ashvath_1
+Shomer_2 --> Ahi_2
+Shomer_2 --> Rohgah_1
+Shomer_2 --> Jehubbah_1
+Shomer_2 --> Aram_3
+Hotham_1 --> Zophah_1
+Hotham_1 --> Imna_1
+Hotham_1 --> Shelesh_1
+Hotham_1 --> Amal_1
+Zophah_1 --> Suah_1
+Zophah_1 --> Harnepher_1
+Zophah_1 --> Shual_1
+Zophah_1 --> Beri_1
+Zophah_1 --> Imrah_1
+Zophah_1 --> Bezer_1
+Zophah_1 --> Hodaviah_3
+Zophah_1 --> Shamma_1
+Zophah_1 --> Shilshah_1
+Zophah_1 --> Ithran_2
+Zophah_1 --> Beera_1
+Ithran_2 --> Jephunneh_2
+Ithran_2 --> Pispa_1
+Ithran_2 --> Ara_1
+Jephunneh_2 --> Arah_1
+Jephunneh_2 --> Hanniel_2
+Jephunneh_2 --> Rizia_1
+Benjamin_1 --> Rapha_1
+Bela_2 --> Abihud_1
+Bela_2 --> Ahoah_1
+Bela_2 --> Gera_3
+Ehud_2 --> Naaman_3
+Ehud_2 --> Ahijah_4
+Ehud_2 --> Gera_4
+Gera_4 --> Uzzah_3
+Gera_4 --> Ahihud_2
+Gera_4 --> Shaharaim_1
+Hushim_3 .left. Shaharaim_1
+Baara_1 .left. Shaharaim_1
+Hodesh_1 .left. Shaharaim_1
+Shaharaim_1 --> Jobab_4
+Shaharaim_1 --> Zibia_1
+Shaharaim_1 --> Mesha_3
+Shaharaim_1 --> Malcam_1
+Shaharaim_1 --> Jeuz_1
+Shaharaim_1 --> Sachia_1
+Shaharaim_1 --> Mirmah_1
+Shaharaim_1 --> Abitub_1
+Shaharaim_1 --> Elpaal_1
+Hushim_3 --> Abitub_1
+Hushim_3 --> Elpaal_1
+Elpaal_1 --> Eber_3
+Elpaal_1 --> Misham_1
+Elpaal_1 --> Shemed_1
+Elpaal_1 --> Beriah_3
+Elpaal_1 --> Shema_3
+Elpaal_1 --> Ahio_2
+Elpaal_1 --> Shashak_1
+Elpaal_1 --> Jeremoth_2
+Beriah_3 --> Zebadiah_1
+Beriah_3 --> Arad_1
+Beriah_3 --> Eder_1
+Beriah_3 --> Michael_5
+Beriah_3 --> Ishpah_1
+Beriah_3 --> Joha_1
+Elpaal_1 --> Zebadiah_2
+Elpaal_1 --> Meshullam_4
+Elpaal_1 --> Hizki_1
+Elpaal_1 --> Heber_4
+Elpaal_1 --> Ishmerai_1
+Elpaal_1 --> Izliah_1
+Elpaal_1 --> Jobab_5
+Shema_3 --> Jakim_1
+Shema_3 --> Zichri_2
+Shema_3 --> Zabdi_2
+Shema_3 --> Elienai_1
+Shema_3 --> Zillethai_1
+Shema_3 --> Eliel_2
+Shema_3 --> Adaiah_3
+Shema_3 --> Beraiah_1
+Shema_3 --> Shimrath_1
+Shashak_1 --> Ishpan_1
+Shashak_1 --> Eber_4
+Shashak_1 --> Eliel_3
+Shashak_1 --> Abdon_2
+Shashak_1 --> Zichri_3
+Shashak_1 --> Hanan_1
+Shashak_1 --> Hananiah_2
+Shashak_1 --> Elam_2
+Shashak_1 --> Anthothijah_1
+Shashak_1 --> Iphdeiah_1
+Shashak_1 --> Penuel_2
+Jeremoth_2 --> Shamsherai_1
+Jeremoth_2 --> Shehariah_1
+Jeremoth_2 --> Athaliah_2
+Jeremoth_2 --> Jaareshiah_1
+Jeremoth_2 --> Elijah_2
+Jeremoth_2 --> Zichri_4
+Maacah_6 .left. Jeiel_2
+Jeiel_2 --> Abdon_3
+Jeiel_2 --> Zur_3
+Jeiel_2 --> Kish_2
+Jeiel_2 --> Baal_2
+Jeiel_2 --> Nadab_4
+Jeiel_2 --> Gedor_3
+Jeiel_2 --> Ahio_3
+Jeiel_2 --> Zecher_1
+Jeiel_2 --> Mikloth_1
+Mikloth_1 --> Shimeah_1
+Mephibosheth_1 --> Micah_3
+Micah_3 --> Pithon_1
+Micah_3 --> Melech_1
+Micah_3 --> Tarea_1
+Micah_3 --> Ahaz_2
+Ahaz_2 --> Jehoaddah_1
+Jehoaddah_1 --> Alemeth_2
+Jehoaddah_1 --> Azmaveth_2
+Jehoaddah_1 --> Zimri_3
+Zimri_3 --> Moza_2
+Moza_2 --> Binea_1
+Binea_1 --> Raphah_2
+Raphah_2 --> Eleasah_2
+Eleasah_2 --> Azel_1
+Azel_1 --> Azrikam_2
+Azel_1 --> Bocheru_1
+Azel_1 --> Ishmael_3
+Azel_1 --> Sheariah_1
+Azel_1 --> Obadiah_4
+Azel_1 --> Hanan_2
+Eshek_1 --> Ulam_2
+Eshek_1 --> Jeush_3
+Eshek_1 --> Eliphelet_4
+Ammihud_5 --> Uthai_1
+Omri_3 --> Ammihud_5
+Imri_1 --> Omri_3
+Bani_3 --> Imri_1
+Meshuallam_1 --> Sallu_1
+Hodaviah_4 --> Meshuallam_1
+Hassenuah_1 --> Hodaviah_4
+Jeroham_3 --> Ibneiah_1
+Uzzi_4 --> Elah_5
+Michri_1 --> Uzzi_4
+Shephatiah_2 --> Meshullam_5
+Reuel_3 --> Shephatiah_2
+Ibnijah_1 --> Reuel_3
+Hilkiah_5 --> Jedaiah_2
+Hilkiah_5 --> Jehoiarib_1
+Hilkiah_5 --> Jachin_2
+Hilkiah_5 --> Azariah_9
+Meshullam_6 --> Hilkiah_5
+Zadok_4 --> Meshullam_6
+Meraioth_2 --> Zadok_4
+Ahitub_4 --> Meraioth_2
+Jeroham_4 --> Adaiah_4
+Pashhur_1 --> Jeroham_4
+Malchijah_2 --> Pashhur_1
+Adiel_2 --> Maasai_1
+Jahzerah_1 --> Adiel_2
+Meshullam_7 --> Jahzerah_1
+Meshillemith_1 --> Meshullam_7
+Immer_1 --> Meshillemith_1
 @enduml
-

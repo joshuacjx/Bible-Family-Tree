@@ -44,6 +44,7 @@ class Relationship:
 
 PERSON_FILEPATH = "person.csv"
 RELATIONSHIP_FILEPATH = "relationship.csv"
+OUTPUT_FILEPATH = "output.txt"
 
 PLACEHOLDER_NAME = "-"
 
@@ -51,22 +52,26 @@ PLACEHOLDER_NAME = "-"
 person_data = pd.read_csv(PERSON_FILEPATH)
 relationship_data = pd.read_csv(RELATIONSHIP_FILEPATH)
 
-puml_text = "@startuml" + "\n" + "skinparam monochrome true" + "\n" + "hide empty members" + "\n" + "hide circle" + "\n"
+puml_text = "@startuml" + "\n" \
+            + "page 5 x 10" + "\n" \
+            + "skinparam monochrome true" + "\n" \
+            + "hide empty members" + "\n" \
+            + "hide circle" + "\n"
 
 # Collect all person data
 persons = dict()
 for index, row in person_data.iterrows():
     person_name = str(row['person_name'])
-    person_id = str(row['person_id']).replace(" ", "_")
+    person_id = str(row['person_id']).replace(" ", "_").replace("-", "_")
     person = Person(person_id, person_name)
     persons[person_id] = person
 
 # Collect all relationship data
 relationships = dict()
 for index, row in relationship_data.iterrows():
-    relationship_id = str(row['person_relationship_id']).replace(" ", "_")
-    from_person_id = str(row['person_id_1']).replace(" ", "_")
-    to_person_id = str(row['person_id_2']).replace(" ", "_")
+    relationship_id = str(row['person_relationship_id']).replace(" ", "_").replace("-", "_")
+    from_person_id = str(row['person_id_1']).replace(" ", "_").replace("-", "_")
+    to_person_id = str(row['person_id_2']).replace(" ", "_").replace("-", "_")
 
     if from_person_id not in persons:
         persons[from_person_id] = Person(from_person_id, PLACEHOLDER_NAME)
@@ -96,13 +101,16 @@ for relationship in relationships.values():
     type = relationship.get_type()
 
     if type is RelationshipType.WIFE:
-        puml_text += from_person_id + " .right. " + to_person_id + "\n"
+        puml_text += from_person_id + " .left. " + to_person_id + "\n"
     if type is RelationshipType.FATHER:
         puml_text += from_person_id + " --> " + to_person_id + "\n"
 
 
 puml_text += "@enduml" + "\n"
 
-print(puml_text)
+# Write into a text file
+text_file = open(OUTPUT_FILEPATH, "w")
+text_file.write(puml_text)
+text_file.close()
 
 
