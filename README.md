@@ -1,4 +1,4 @@
-# Family-Tree-Generator
+# Family Tree Generator
 Generates beautiful family trees from large CSV files of data.
 
 ## Full Bible Family Tree Project
