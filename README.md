@@ -1,7 +1,4 @@
-# Family Tree Generator
-Generates beautiful family trees from large CSV files of data.
-
-## Full Bible Family Tree Project
+## Bible Family Tree
 
 The picture you are seeing below, is the complete family tree of every single human person mentioned in the Bible (or at least the Old Testament, because I don't see any New Testament figures in the datasets).
 The words are definitely too small to see with your naked eye. Open the picture up and zoom in to admire it in its full glory.
